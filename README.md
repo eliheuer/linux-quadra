@@ -1,2 +1,2 @@
 # linux-quadra
-A variable font fork of Linux Biolinum
+Eli's fork of Linux Biolinum
